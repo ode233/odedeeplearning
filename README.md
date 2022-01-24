@@ -3,14 +3,15 @@ deeplearning.ai_programing_work
 
 coursera deeplearning.ai programing work
 
-the environment with python:
+install environment:
 
 ```py
 conda list -e > package_conda.txt
 conda create --name <env> --file package_conda.txt
 ```
 
-packages in environment at D:\Anaconda3\envs\deeplearning.ai:
+packages in environment:
+
 ```
  Name                    Version                   Build  
 absl-py                   0.2.2                    py35_0     
